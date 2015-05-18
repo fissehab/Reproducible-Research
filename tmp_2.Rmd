@@ -1,0 +1,24 @@
+ ---
+ fontsize: 11pt
+ ---
+  
+## Most Harmful Storms and Weather Events In The United States
+   
+<br />
+
+### Synopsis
+
+This report seeks to investigate storms and other weather events that cause the highest number of fatalities and injuries. Moreover, it shows which events have the greatest economic consequences. Understanding the impacts of different weather events on public health and the economy of the nation is essential to take necessary preparations and to mobilize resources in the right time. The data used for the analysis is drawn from the U.S. National Oceanic and Atmospheric Administration's [(NOAA)][1] storm database. The data for the analysis covers the period from 1950 to November 2011.
+
+<br/>
+    
+###Data Processing
+ 
+First and foremost, let's clear the workspace and load required libraries.
+      
+   
+<br/>
+
+
+[1]: http://www.noaa.gov/ "(NOAA)"
+   
